@@ -1,0 +1,30 @@
+body{
+   background-color: #EEE;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+}
+
+.area{
+   width: 100%;
+   max-width:350px ;
+   text-align: center;
+   padding: 10px;
+
+  
+}
+.logo{
+   width: 100%;
+   max-width: 150px;
+   margin-left: 25px;
+   margin-bottom: 10px;
+}
+.remember{
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.gray{
+   padding-top: 15px;
+   color: #999;
+}
